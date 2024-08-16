@@ -21,4 +21,4 @@
  <li>Responsive design for various screen sizes</li>
 </ul>
 <h1>Installation</h1>
-<p>Clone this repository:git clone</p>
+<p>Clone this repository:git clone https://github.com/leoGoD10/gym-fitness-project.git</p>
