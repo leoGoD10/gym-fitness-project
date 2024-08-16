@@ -20,3 +20,5 @@
  <li>Contact page with a form for inquiries</li>
  <li>Responsive design for various screen sizes</li>
 </ul>
+<h1>Installation</h1>
+<p>Clone this repository:git clone</p>
