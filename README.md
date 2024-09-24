@@ -10,7 +10,7 @@
  <li>License</li>
 </ul>
 <h1>Demo</h1>
-<img src="https://media.licdn.com/dms/image/D5622AQFSbf3ccVj7mA/feedshare-shrink_2048_1536/0/1723653788568?e=1726704000&v=beta&t=TAUvuS7iI4JDzZI69TqUVveteqU4nn6elnEz9capXjg" alt="Error loading image">
+<img src="https://media.licdn.com/dms/image/v2/D5622AQGM5hWuilJWoQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1727192369006?e=1730332800&v=beta&t=0ozQjur_2HbOb7Qtq2TeUh1h_zFCDVHfhYEYagyE9xo" alt="Error loading image">
 <h1>Features</h1>
 <p>The Gym Fitness Website includes the following features:</p>
 <ul>
